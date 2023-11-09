@@ -1,0 +1,5 @@
+Path,label
+C:\Users\ADMIN\Desktop\Brain Tumor\dataset\Training\glioma,glioma
+C:\Users\ADMIN\Desktop\Brain Tumor\dataset\Training\meningioma,meningioma
+C:\Users\ADMIN\Desktop\Brain Tumor\dataset\Training\notumor,notumor
+C:\Users\ADMIN\Desktop\Brain Tumor\dataset\Training\pituitary,pituitary
